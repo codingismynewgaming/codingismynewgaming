@@ -6,4 +6,6 @@ AI Engineer & Consultant at [Assecor](https://www.assecor.de) in Berlin. I build
 
 **Currently into:** local and free LLMs, self hosted infrastructure.
 
+**Off the keyboard:** homelabbing, travelling a lot, and long bike rides out in nature.
+
 🌐 [berlin-mitte-institut.de](https://www.berlin-mitte-institut.de) · 💼 [LinkedIn](https://www.linkedin.com/in/janmichaelkuehn/) · 🎧 [Mixcloud](https://www.mixcloud.com/berlinmitteinstitut/) · [SoundCloud](https://soundcloud.com/berlinmitteinstitut)
